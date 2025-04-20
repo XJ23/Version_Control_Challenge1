@@ -2,3 +2,6 @@
 Practice for remote repo!
 
 Add another line
+
+VScode example of using git
+
